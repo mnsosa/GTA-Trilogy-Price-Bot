@@ -45,13 +45,13 @@ def main():
 
     if isinstance(price, tuple):
         price = [str(price[i]) for i in range(len(price))]
-        price = int(ast.literal_eval("".join(price)))
+        price = float(ast.literal_eval("".join(price)))
 
     print(f"Price: {price}")
 
     # read last_value.txt
     with open("last_value.txt", "r") as file:
-        last_value = int(file.read())
+        last_value = float(file.read())
         print(f"Last value: {last_value}")
 
     if price < last_value:
