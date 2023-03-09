@@ -11,3 +11,10 @@ It's just an excuse to do GitScraping and to use the Tweepy library.
 
 
 <img title="gta sa" src="gta.jpg" width="60%">
+
+# Personal update
+
+Today I wanted to add info to the scraper by scraping Steam. When I opened it I saw this:
+![image](https://user-images.githubusercontent.com/62484139/223883447-42ee0068-8c03-4fc7-8b55-10f5411aa7da.png)
+
+So I bought it. I feel good.
