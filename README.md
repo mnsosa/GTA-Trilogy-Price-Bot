@@ -10,4 +10,4 @@ It's just an excuse to do GitScraping and to use the Tweepy library.
 3. Publish results on Twitter (waiting for _Twitter Developer Account_ confirmation) ◻️
 
 
-<img title="gta sa" src="gta.jpg">
+<img title="gta sa" src="gta.jpg" width="60">
